@@ -1,4 +1,4 @@
-### 👋👋👋 Hi there, Fowz here !!! 👋👋👋
+### 🙋‍♂️ Hi there, Fowz here !!! 👋👋👋
 
 
 🔭 I am usually working in the areas of **Information Security**, conducting **VA/PT** and making life easy via **Python scripts**.
