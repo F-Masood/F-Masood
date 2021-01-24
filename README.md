@@ -1,7 +1,7 @@
 ### 👋👋👋 Hi there, Fowz here !!! 👋👋👋
 
 
-🔭 I am usually working in the areas of **Information Security**, conducting **VA/PT** and making life easier with **Python scripts**.
+🔭 I am usually working in the areas of **Information Security**, conducting **VA/PT** and making life easier via **Python scripts**.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=F-Masood&count_private=true&show_icons=true&theme=radical" alt=F-Masood /> </p>
 
 
