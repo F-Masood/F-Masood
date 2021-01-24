@@ -3,7 +3,7 @@
 
 🔭 I am usually working in the areas of **Information Security**, conducting **VA/PT** and making life easy via **Python scripts**.
 
-### My mood 24/7/365 👇
+### My mood ~24 / 7 / 365 👇
 <p align="center"> 
 <img align="center" src=https://i.pinimg.com/originals/f3/25/58/f325581f9612cdc77538f205e66a3d3f.jpg alt="SadPepe" /></a>
 
