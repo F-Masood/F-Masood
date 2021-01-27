@@ -1,4 +1,4 @@
-### 🙋‍♂️ Hi there, I am Fowz /فوز. 👋
+### 🙋‍♂️ Hi there, I am Fowz (فوز). 👋
 
 
 🔭 I am usually working in the areas of **Information Security**, conducting **VA/PT** and making life easy via **Python scripts**.
